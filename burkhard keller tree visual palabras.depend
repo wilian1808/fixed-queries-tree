@@ -1,0 +1,73 @@
+# depslib dependency file v1.0
+1559219557 source:d:\___yoyito\burkhard keller tree visual palabras\main.cpp
+	<sstream>
+	<iostream>
+	<map>
+	<vector>
+	<windows.h>
+	<commctrl.h>
+	<stdio.h>
+	"resource.h"
+
+1550160231 d:\___yoyito\burkhard keller tree visual palabras\resource.h
+
+1550160260 source:d:\___yoyito\burkhard keller tree visual palabras\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1550160260 source:d:\_cursos\edav maestría\burkhard keller tree visual palabras\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1550160231 d:\_cursos\edav maestría\burkhard keller tree visual palabras\resource.h
+
+1576337413 source:d:\_cursos\edav maestría\burkhard keller tree visual palabras\main.cpp
+	<sstream>
+	<iostream>
+	<map>
+	<vector>
+	<windows.h>
+	<commctrl.h>
+	<stdio.h>
+	"resource.h"
+
+1576337414 source:d:\burkhard keller tree visual palabras\main.cpp
+	<sstream>
+	<iostream>
+	<map>
+	<vector>
+	<windows.h>
+	<commctrl.h>
+	<stdio.h>
+	"resource.h"
+
+1550160232 d:\burkhard keller tree visual palabras\resource.h
+
+1550160262 source:d:\burkhard keller tree visual palabras\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1576337414 source:c:\users\will\downloads\bkillertree\burkhard keller tree visual palabras\main.cpp
+	<sstream>
+	<iostream>
+	<map>
+	<vector>
+	<windows.h>
+	<commctrl.h>
+	<stdio.h>
+	"resource.h"
+
+1550160232 c:\users\will\downloads\bkillertree\burkhard keller tree visual palabras\resource.h
+
+1550160262 source:c:\users\will\downloads\bkillertree\burkhard keller tree visual palabras\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
