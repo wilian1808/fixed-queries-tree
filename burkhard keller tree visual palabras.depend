@@ -71,3 +71,21 @@
 	<richedit.h>
 	"resource.h"
 
+1550160262 source:c:\users\will\desktop\burkhard keller tree visual palabras\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1550160232 c:\users\will\desktop\burkhard keller tree visual palabras\resource.h
+
+1597519452 source:c:\users\will\desktop\burkhard keller tree visual palabras\main.cpp
+	<sstream>
+	<iostream>
+	<map>
+	<vector>
+	<windows.h>
+	<commctrl.h>
+	<stdio.h>
+	"resource.h"
+
